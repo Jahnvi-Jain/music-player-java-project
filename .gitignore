@@ -1,0 +1,7 @@
+# Java build files
+*.class
+
+# IDE specific files
+.vscode/
+*.iml
+.idea/
